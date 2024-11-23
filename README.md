@@ -29,8 +29,8 @@
 
 Clone o repositório:
 
-    git clone https://github.com/robertogentile/git-bulk-actions.git
-    cd git-bulk-actions
+    git clone https://github.com/robertogentile/github-bulk-insert.git
+    cd github-bulk-insert
 
 Cria ambiente virtual (Unix/macOS):
 
@@ -117,7 +117,7 @@ Execute:
 ## 📞 Suporte
 
 Para reportar problemas ou sugerir melhorias:
-[Abra uma issue](https://github.com/robertogentile/git-bulk-actions/issues)
+[Abra uma issue](https://github.com/robertogentile/github-bulk-insert/issues)
 
 ---
 
