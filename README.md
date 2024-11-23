@@ -27,30 +27,26 @@
 
 ## 🚀 Instalação
 
-1. Clone o repositório:
-
-Bash:
+Clone o repositório:
 
     git clone https://github.com/robertogentile/git-bulk-actions.git
     cd git-bulk-actions
 
-2. Crie ambiente virtual:
-
-Unix/macOS:
+Cria ambiente virtual (Unix/macOS):
 
     python -m venv venv
     source venv/bin/activate
 
-Windows:
+(ou) crie ambiente virtual (Windows):
 
-   python -m venv venv
-   .\venv\Scripts\activate
+    python -m venv venv
+    .\venv\Scripts\activate
 
-3. Instale dependências:
+Instale as dependências:
 
     pip install -r requirements.txt
 
-4. Configure ambiente:
+Configure ambiente:
 
     cp production.env.example production.env
 
@@ -68,6 +64,7 @@ Edite o arquivo production.env:
 ## 💻 Uso do Programa
 
 Execute:
+
     python main.py
 
 ### Menu Principal
