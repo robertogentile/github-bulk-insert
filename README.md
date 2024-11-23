@@ -4,9 +4,9 @@
 
 <div align="center">
 
-![GitHub](https://img.shields.io/github/license/robertogentile/git-bulk-actions)
+![GitHub](https://img.shields.io/github/license/robertogentile/github-bulk-insert)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/robertogentile/git-bulk-actions)
+![GitHub last commit](https://img.shields.io/github/last-commit/robertogentile/github-bulk-insert)
 
 </div>
 
