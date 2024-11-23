@@ -29,18 +29,19 @@
 
 1. Clone o repositório:
 
+**Bash**:
     git clone https://github.com/robertogentile/git-bulk-actions.git
     cd git-bulk-actions
 
 2. Crie ambiente virtual:
 
-    # Unix/macOS
-    python -m venv venv
-    source venv/bin/activate
+**Unix/macOS**:
+   python -m venv venv
+   source venv/bin/activate
 
-    # Windows
-    python -m venv venv
-    .\venv\Scripts\activate
+**Windows**:
+   python -m venv venv
+   .\venv\Scripts\activate
 
 3. Instale dependências:
 
