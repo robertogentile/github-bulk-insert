@@ -28,10 +28,12 @@
 ## 🚀 Instalação
 
 1. Clone o repositório:
+
     git clone https://github.com/robertogentile/git-bulk-actions.git
     cd git-bulk-actions
 
 2. Crie ambiente virtual:
+
     # Unix/macOS
     python -m venv venv
     source venv/bin/activate
@@ -41,9 +43,11 @@
     .\venv\Scripts\activate
 
 3. Instale dependências:
+
     pip install -r requirements.txt
 
 4. Configure ambiente:
+
     cp production.env.example production.env
 
 ## ⚙️ Configuração
