@@ -36,8 +36,8 @@
 2. Crie ambiente virtual:
 
 **Unix/macOS**:
-   python -m venv venv
-   source venv/bin/activate
+    python -m venv venv
+    source venv/bin/activate
 
 **Windows**:
    python -m venv venv
