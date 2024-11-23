@@ -2,22 +2,21 @@
 
 > Uma ferramenta para gerenciar permissões em massa no GitHub
 
-![GitHub](https://img.shields.io/badge/github-bulk_manager-blue)
+<div align="center">
+
+![GitHub](https://img.shields.io/github/license/robertogentile/git-bulk-actions)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green)
+![GitHub last commit](https://img.shields.io/github/last-commit/robertogentile/git-bulk-actions)
 
-## 📝 Descrição
+</div>
 
-Automatiza a gestão de permissões de colaboradores em múltiplos repositórios GitHub dentro de uma organização.
+## 🚀 Funcionalidades
 
-## ✨ Funcionalidades
-
-- 👥 Adiciona/Remove colaboradores em massa
-- 🔍 Busca repositórios por prefixo
-- 💻 Interface interativa em linha de comando
-- ⚡ Validação de configurações em tempo real
-- 🔒 Confirmação de segurança em operações críticas
-- 🚦 Controle automático de rate limiting
+- ✨ Busca repositórios por prefixo em uma organização
+- 👥 Adiciona ou remove colaboradores em massa
+- 🔐 Suporte a diferentes níveis de permissão
+- 💻 Interface de linha de comando interativa
+- 🛡️ Confirmação de segurança antes de aplicar alterações
 
 ## 📋 Pré-requisitos
 
